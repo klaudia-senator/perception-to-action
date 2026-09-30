@@ -2,7 +2,7 @@
 
 [![tests](https://github.com/klaudia-senator/perception-to-action/actions/workflows/tests.yml/badge.svg)](https://github.com/klaudia-senator/perception-to-action/actions/workflows/tests.yml)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 A compact research demo of a real-time computer-vision system that turns scene perception into a safe, simulated action. It combines multi-head segmentation, temporal reasoning, target localization, coordinate transformation and an explicit control state machine.
 
@@ -130,6 +130,12 @@ python -m pytest -q
 ```
 
 Tests cover coordinate mapping, state-machine gates, event stabilization, preprocessing/postprocessing and the full simulated pipeline.
+
+## Copyright and permitted access
+
+Copyright © 2026 Klaudia Senator. All rights reserved.
+
+This repository contains material derived from ongoing doctoral research. It is publicly visible only for professional portfolio review and evaluation. No permission is granted to copy, reuse, modify, redistribute, publish, commercialize, deploy, create derivative works from, or use the contents for AI/ML training. See [LICENSE](LICENSE) for the complete notice.
 
 ## Privacy and responsible disclosure
 
