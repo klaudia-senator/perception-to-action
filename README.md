@@ -1,6 +1,6 @@
 # AI Perception-to-Action Pipeline
 
-[![tests](https://github.com/klaudia-senator/ai-perception-to-action-pipeline/actions/workflows/tests.yml/badge.svg)](https://github.com/klaudia-senator/ai-perception-to-action-pipeline/actions/workflows/tests.yml)
+[![tests](https://github.com/klaudia-senator/perception-to-action/actions/workflows/tests.yml/badge.svg)](https://github.com/klaudia-senator/perception-to-action/actions/workflows/tests.yml)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -42,8 +42,8 @@ The public demo uses a color-based inference backend so it runs without private 
 ## Quick start
 
 ```bash
-git clone https://github.com/klaudia-senator/ai-perception-to-action-pipeline.git
-cd ai-perception-to-action-pipeline
+git clone https://github.com/klaudia-senator/perception-to-action.git
+cd perception-to-action
 python -m venv .venv
 # Windows: .venv\Scripts\activate
 # macOS/Linux: source .venv/bin/activate
