@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+.venv/
+venv/
+dist/
+build/
+.idea/
+.vscode/
+.DS_Store
+
+# Never commit model artifacts or local data.
+*.pt
+*.pth
+*.onnx
+data/
+datasets/
+weights/
+checkpoints/
+outputs/
+*.mp4
+*.avi
+
